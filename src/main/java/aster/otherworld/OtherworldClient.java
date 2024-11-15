@@ -1,4 +1,4 @@
-package aster.otherworld.mixin;
+package aster.otherworld;
 
 import net.fabricmc.api.ClientModInitializer;
 

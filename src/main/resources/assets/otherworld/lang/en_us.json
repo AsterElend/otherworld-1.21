@@ -1,3 +1,15 @@
-{ "item.otherworld.tallow": "Tallow"
+{
+  "item.otherworld.tallow": "Tallow",
+  "item.otherworld.fray": "Frayed Connection",
+  "item.otherworld.devour": "Devoured Copper",
+  "item.otherworld.origin_ore": "Orichalcum",
+  "item.otherworld.silk": "Imperial Silk",
+  "item.otherworld.memory": "Hazy Memory",
+  "item.otherworld.darkbook": "Eldritch Chronicle",
+  "item.otherworld.moonfeather": "Moonfeather",
+  "item.otherworld.jelly": "Royal Jelly",
+  "item.otherworld.floatstone":"Floatstone",
+  "item.otherworld.scrap": "Animus Scrap"
+
 
 }

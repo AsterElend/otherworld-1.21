@@ -22,7 +22,7 @@
 			"aster.otherworld.OtherworldDataGenerator"
 		],
 		"client": [
-			"aster.otherworld.mixin.OtherworldClient"
+			"aster.otherworld.OtherworldClient"
 		]
 	},
 	"mixins": [
