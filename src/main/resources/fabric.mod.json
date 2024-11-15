@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "otherworld",
+	"version": "${version}",
+	"name": "Otherworld",
+	"description": "a fourth dimension!",
+	"authors": [
+		"Aster"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/otherworld/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"aster.otherworld.Otherworld"
+		],
+		"fabric-datagen": [
+			"aster.otherworld.OtherworldDataGenerator"
+		],
+		"client": [
+			"aster.otherworld.mixin.OtherworldClient"
+		]
+	},
+	"mixins": [
+		"otherworld.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
