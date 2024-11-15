@@ -9,7 +9,10 @@
   "item.otherworld.moonfeather": "Moonfeather",
   "item.otherworld.jelly": "Royal Jelly",
   "item.otherworld.floatstone":"Floatstone",
-  "item.otherworld.scrap": "Animus Scrap"
+  "item.otherworld.scrap": "Animus Scrap",
+  "block.otherworld.gleamstone": "Gleamstone",
+  "block.otherworld.gloamstone": "Gloamstone",
+  "block.otherworld.gloomstone": "Gloomstone"
 
 
 }

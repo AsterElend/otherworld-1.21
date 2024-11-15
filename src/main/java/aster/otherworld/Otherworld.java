@@ -1,5 +1,6 @@
 package aster.otherworld;
 
+import aster.otherworld.block.ModBlocks;
 import aster.otherworld.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -22,5 +23,6 @@ public class Otherworld implements ModInitializer {
 
 		LOGGER.info("Hello Fabric world!");
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
